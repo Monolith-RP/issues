@@ -6,6 +6,8 @@ body:
     attributes:
       value: |
         Thanks for taking the time to create a report to help us improve!
+        
+        If applicable, add screenshots to help explain your problem.
 
   - type: textarea
     id: bug-description
