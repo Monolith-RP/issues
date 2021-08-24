@@ -37,14 +37,6 @@ body:
       required: true
 
   - type: textarea
-    id: expected-behavior
-    attributes:
-      label: Expected Behavior
-      description: A clear and concise description of what you expected to happen.
-    validations:
-      required: true
-
-  - type: textarea
     id: additiona-context
     attributes:
       label: Additional Context
