@@ -30,7 +30,7 @@ body:
       label: Suggested Solution
       description: A clear and concise description of what you want the feature to look like.
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: considered-alternatives
